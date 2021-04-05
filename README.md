@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 - 👷 I'm contractor and I work as Solution Architect, Technical Lead or anything near to these roles.
-- ℹ️ If you want to dowload my CV or to know more about me, you can check [my site](https://www.acervera.com).
+- ℹ️ If you want to download my CV or to know more about me, you can check [my site](https://www.acervera.com).
 - 🌱 I’m currently learning Rust.
 - 💟 I love Scala.
 
