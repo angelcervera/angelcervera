@@ -1,4 +1,14 @@
+
 ### Hi there 👋
+
+- 👷 I'm contractor and I work as Solution Architect, Technical Lead or anything near to these roles.
+- ℹ️ If you want to dowload my CV or to know more about me, you can check [my site](https://www.acervera.com).
+- 🌱 I’m currently learning Rust.
+- 💟 I love Scala.
+
+ 
+[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelcervera&count_private=true)](https://github.com/angelcervera)
+
 
 <!--
 **angelcervera/angelcervera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
