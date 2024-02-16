@@ -1,7 +1,8 @@
 
 ### Hi there 👋
 
-- 👷 I'm contractor and I work as Solution Architect, Technical Lead or anything around to these roles.
+- 🎓 Google Certificated - Professional Cloud Architect
+- 👷 I'm contractor and I work as Solution Architect, Technical Lead, or anything around these roles.
 - ℹ️ If you want to download my CV or to know more about me, you can check 👉 **[my site](https://www.acervera.com)** 👈
 - 🌱 I’m currently learning **Rust**.
 - 💟 I love **Scala**.
