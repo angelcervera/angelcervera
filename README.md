@@ -1,5 +1,6 @@
 
 ### Hi there 👋
+I’m currently available for new opportunities, so feel free to reach out if you know of any interesting open roles.
 
 - 🎓 Google Certificated - Professional Cloud Architect
 - 👷 I'm contractor and I work as Solution Architect, Technical Lead, or anything around these roles.
